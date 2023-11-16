@@ -9,11 +9,11 @@ Welcome to my GitHub! I'm a passionate Front End Web developer dedicated to crea
 👨‍💻 Skills & Experiance:
 <hr />
 
-✅ WordPress
-✅ JavaScript
-✅ React
-✅ HTML5 / CSS3 / Tailwind / Bootstrap
-✅ Photoshop 
+✅ WordPress <br/>
+✅ JavaScript <br/>
+✅ React <br/>
+✅ HTML5 / CSS3 / Tailwind / Bootstrap <br/>
+✅ Photoshop <br/>
 
 - 🔭 I’m currently working on DreamIT 
 - 🌱 I’m currently learning React JS 
@@ -31,7 +31,7 @@ Welcome to my GitHub! I'm a passionate Front End Web developer dedicated to crea
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=jisan5620jk)](https://github.com/anuraghazra/github-readme-stats)
 
-![GitHub stats](https://github-readme-stats.vercel.app/api?username=jisan5620jk&show_icons=true)  
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=jisan5620jk)
 
 ![GitHub Activity Graph](https://activity-graph.herokuapp.com/graph?username=jisan5620jk)  
 
