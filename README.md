@@ -1,14 +1,31 @@
-### Hi there 👋
+### Hi there 👋, my name is Jisan Khan 👋
 
-**jisan5620jk/jisan5620jk** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Welcome to my GitHub! I'm a passionate Front End Web developer dedicated to creating high-quality, error-free websites. I love learning and sharing my knowledge with the community, and here you'll find a collection of my projects and contributions. My expertise includes working with technologies such as HTML, CSS, JavaScript, ReactJS, and WordPress. I'm always striving for 100% client satisfaction and I'm excited to collaborate and contribute to open source projects. Let's connect and build something amazing together!
 
-Here are some ideas to get you started:
+Skills:  JS / HTML / CSS / BOOTSTRAP / TAILWIND
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
+- 🔭 I’m currently working on DreamIT 
+- 🌱 I’m currently learning React JS 
+- 👯 I’m looking to collaborate on error free website 
+- 💬 Ask me about Web Devlopment 
+- 📫 How to reach me: jisank5620@gmail.com 
+- ⚡ Fun fact:  I love solving problems in code 
+
+
+[<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/github.svg' alt='github' height='40'>](https://github.com/jisan5620jk)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/facebook.svg' alt='facebook' height='40'>](https://www.facebook.com/jisankhan.net)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/twitter.svg' alt='twitter' height='40'>](https://twitter.com/jisan5620jk)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/stackoverflow.svg' alt='stackoverflow' height='40'>](https://stackoverflow.com/users/jisan5620jk)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/reddit.svg' alt='Reddit' height='40'>](https://www.reddit.com/user/jisan5620jk)  
+
+<a href='https://archiveprogram.github.com/'><img src='https://raw.githubusercontent.com/acervenky/animated-github-badges/master/assets/acbadge.gif' width='40' height='40'></a> <a href='https://docs.github.com/en/developers'><img src='https://raw.githubusercontent.com/acervenky/animated-github-badges/master/assets/devbadge.gif' width='40' height='40'></a> <a href='https://stars.github.com/'><img src='https://raw.githubusercontent.com/acervenky/animated-github-badges/master/assets/starbadge.gif' width='35' height='35'></a> 
+
+[![trophy](https://github-profile-trophy.vercel.app/?username=jisan5620jk)](https://github.com/ryo-ma/github-profile-trophy)
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=jisan5620jk)](https://github.com/anuraghazra/github-readme-stats)
+
+![GitHub stats](https://github-readme-stats.vercel.app/api?username=jisan5620jk&show_icons=true)  
+
+![GitHub Activity Graph](https://activity-graph.herokuapp.com/graph?username=jisan5620jk)  
+
+![GitHub metrics](https://metrics.lecoq.io/jisan5620jk)  
+
+![GitHub streak stats](https://streak-stats.demolab.com/?user=jisan5620jk)  
+
+![Profile views](https://gpvc.arturio.dev/jisan5620jk)  
