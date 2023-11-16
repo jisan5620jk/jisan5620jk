@@ -1,8 +1,19 @@
-### Hi there 👋, my name is Jisan Khan 👋
+### Hi , I'm Jisan Khan 👋
+
+👑 I am Web Developer
+🖊️ Love to write code
+🎤 Like to share my knowledge
 
 Welcome to my GitHub! I'm a passionate Front End Web developer dedicated to creating high-quality, error-free websites. I love learning and sharing my knowledge with the community, and here you'll find a collection of my projects and contributions. My expertise includes working with technologies such as HTML, CSS, JavaScript, ReactJS, and WordPress. I'm always striving for 100% client satisfaction and I'm excited to collaborate and contribute to open source projects. Let's connect and build something amazing together!
 
-Skills:  JS / HTML / CSS / BOOTSTRAP / TAILWIND
+👨‍💻 Skills & Experiance:
+<hr />
+
+✅ WordPress
+✅ JavaScript
+✅ React
+✅ HTML5 / CSS3 / Tailwind / Bootstrap
+✅ Photoshop 
 
 - 🔭 I’m currently working on DreamIT 
 - 🌱 I’m currently learning React JS 
