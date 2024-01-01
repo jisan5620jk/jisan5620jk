@@ -1,6 +1,6 @@
 ### Hi , I'm Jisan Khan 👋
 
-👑 I am Web Developer <br/>
+👑 I am Web Designer & Developer <br/>
 🖊️ Love to write code <br/>
 🎤 Like to share my knowledge
 
@@ -10,11 +10,11 @@ Welcome to my GitHub! I'm a passionate Front End Web developer dedicated to crea
 
 👨‍💻 Skills & Experiance:<hr />
 
-✅ <a href="https://wordpress.com" target="_blank" rel="noreferrer"> <img src="https://s1.wp.com/i/favicon.ico" alt="android" width="30" height="30"/> WordPress </a><br/>
-✅ <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="30" height="30"/> JavaScript </a><br/>
-✅ <a href="https://reactjs.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="30" height="30"/> React </a><br/>
-✅ <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="30" height="30"/> HTML5 </a>/ <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer" style="display:flex; align-items:center;"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="30" height="30"/> CSS3 </a>/ <a href="https://www.adobe.com/in/products/illustrator.html" target="_blank" rel="noreferrer"> <img src="https://tailwindcss.com/favicons/favicon-32x32.png" alt="Tailwind" width="30" height="30"/> Tailwind </a>/ <a href="https://getbootstrap.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain-wordmark.svg" alt="bootstrap" width="30" height="30"/> Bootstrap </a><br/>
-✅ <a href="https://www.photoshop.com/en" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/photoshop/photoshop-line.svg" alt="photoshop" width="30" height="30"/> Photoshop </a><br/>
+✅ <a href="https://wordpress.com" target="_blank" rel="noreferrer"  style="display: flex; align-items: center;"> <img src="https://s1.wp.com/i/favicon.ico" alt="android" width="30" height="30"/> WordPress </a><br/>
+✅ <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"  style="display: flex; align-items: center;"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="30" height="30"/> JavaScript </a><br/>
+✅ <a href="https://reactjs.org/" target="_blank" rel="noreferrer"  style="display: flex; align-items: center;"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="30" height="30"/> React </a><br/>
+✅ <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"  style="display: flex; align-items: center;"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="30" height="30"/> HTML5 </a>/ <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"  style="display: flex; align-items: center;"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="30" height="30"/> CSS3 </a>/ <a href="https://www.adobe.com/in/products/illustrator.html" target="_blank" rel="noreferrer"  style="display: flex; align-items: center;"> <img src="https://tailwindcss.com/favicons/favicon-32x32.png" alt="Tailwind" width="30" height="30"/> Tailwind </a>/ <a href="https://getbootstrap.com" target="_blank" rel="noreferrer"  style="display: flex; align-items: center;"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain-wordmark.svg" alt="bootstrap" width="30" height="30"/> Bootstrap </a><br/>
+✅ <a href="https://www.photoshop.com/en" target="_blank" rel="noreferrer"  style="display: flex; align-items: center;"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/photoshop/photoshop-line.svg" alt="photoshop" width="30" height="30"/> Photoshop </a><br/>
 
 - 🔭 I’m currently working on DreamIT 
 - 🌱 I’m currently learning React JS 
@@ -31,9 +31,6 @@ Welcome to my GitHub! I'm a passionate Front End Web developer dedicated to crea
 <a href="https://fb.com/jisan5620jk" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="Jisan Khan" height="30" width="30" /></a>
 <a href="https://instagram.com/jisan5620jk" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="Jisan Khan" height="30" width="30" /></a>
 </p>
-
-<h3 align="left">Languages and Tools:</h3>
-<p align="left">         </p>
 
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=jisan5620jk&show_icons=true&locale=en&layout=compact" alt="itsrakibroni" /></p>
 
