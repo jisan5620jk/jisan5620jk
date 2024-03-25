@@ -1,6 +1,6 @@
 ### Hi , I'm Jisan Khan 👋
 
-👑 I am Web Designer & Developer <br/>
+👑 I am Front-end Developer <br/>
 🖊️ Love to write code <br/>
 🎤 Like to share my knowledge
 
