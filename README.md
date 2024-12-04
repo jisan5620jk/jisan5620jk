@@ -1,6 +1,6 @@
 ### Hi, I'm Jisan Khan 👋
 
-👑 I am Front-end Developer <br/>
+👑 I am a Front-end Developer <br/>
 🖊️ Love to write code <br/>
 🎤 Like to share my knowledge
 
