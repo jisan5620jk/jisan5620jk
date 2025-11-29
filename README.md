@@ -31,8 +31,3 @@ Welcome to my GitHub! I’m a passionate Front-End Web developer who creates hig
 <a href="https://fb.com/jisan5620jk" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="Jisan Khan" height="30" width="30" /></a>
 <a href="https://instagram.com/jisan5620jk" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="Jisan Khan" height="30" width="30" /></a>
 </p>
-
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=jisan5620jk&show_icons=true&locale=en&layout=compact" alt="itsrakibroni" /></p>
-
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=jisan5620jk&show_icons=true&locale=en" alt="itsrakibroni" /></p>
-
