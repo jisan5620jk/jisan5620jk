@@ -6,7 +6,7 @@
 
 🚀 About Me<hr/>
 
-Welcome to my GitHub! I’m a passionate Front-End Web developer who creates high-quality, error-free websites. I love learning and sharing my knowledge with the community. Here, you’ll find a collection of my projects and contributions, showcasing my expertise in HTML, CSS, JavaScript, ReactJS, and WordPress. I’m committed to achieving 100% client satisfaction and am always eager to collaborate and contribute to open-source projects. Let’s connect and build something amazing together!
+Welcome to my GitHub! I’m a passionate Front-End Web developer who creates high-quality, error-free websites. I love learning and sharing my knowledge with the community. Here, you’ll find a collection of my projects and contributions, showcasing my expertise in HTML, CSS, JavaScript, ReactJS, and Shopify. I’m committed to achieving 100% client satisfaction and am always eager to collaborate and contribute to open-source projects. Let’s connect and build something amazing together!
 
 👨‍💻 Skills & Experiance:<hr />
 
