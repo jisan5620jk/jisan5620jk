@@ -21,7 +21,7 @@ Welcome to my GitHub! I’m a passionate Front-End Web developer who creates hig
 - 👯 I’m looking to collaborate on an error-free website 
 - 💬 Ask me about Web development 
 - 📫 How to reach me: jisank5620@gmail.com 
-- ⚡ Fun fact:  I love solving problems in code 
+- ⚡ Fun fact: I love solving problems in code 
 
 
 <h3 align="left">Connect with me:</h3>
