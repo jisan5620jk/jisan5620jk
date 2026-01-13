@@ -16,7 +16,7 @@ Welcome to my GitHub! I’m a passionate Front-End Web developer who creates hig
 <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"  > <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="20" height="20"/> HTML5 </a>/ <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"  > <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="20" height="20"/> CSS3 </a>/ <a href="https://www.tailwindcss.com" target="_blank" rel="noreferrer"  > <img src="https://tailwindcss.com/favicons/favicon-32x32.png" alt="Tailwind" width="20" height="20"/> Tailwind </a>/ <a href="https://getbootstrap.com" target="_blank" rel="noreferrer"  > <img src="https://getbootstrap.com/docs/5.3/assets/brand/bootstrap-logo-shadow.png" alt="bootstrap" width="20" height="20"/> Bootstrap </a><br/>
 <a href="https://www.figma.com/en" target="_blank" rel="noreferrer"  > <img src="https://www.adobe.com/cc-shared/assets/img/product-icons/svg/photoshop-64.svg" alt="photoshop" width="20" height="20"/> Photoshop </a><a href="https://www.photoshop.com/en" target="_blank" rel="noreferrer"  > <img src="https://static.figma.com/app/icon/1/favicon.svg" alt="figma" width="20" height="20"/> Figma </a><br/>
 
-- 🔭 I’m currently working on the DreamIT Solution
+- 🔭 I’m currently working on the Akta Service
 - 🌱 I’m currently learning Full-stack development 
 - 👯 I’m looking to collaborate on an error-free website 
 - 💬 Ask me about Web development 
